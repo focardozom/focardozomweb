@@ -1,0 +1,69 @@
+baseURL: /
+languageCode: en-us
+title: Francisco Cardozo
+theme: hugo-theme-cactus
+copyright: You
+disqusShortname: example
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Writings
+      url: /posts
+      weight: 2
+    - name: Tags
+      url: /tags
+      weight: 3
+    - name: About
+      url: /about
+      weight: 4
+markup:
+  highlight:
+    codeFences: yes
+    guessSyntax: no
+    hl_Lines: ''
+    lineNoStart: 1
+    lineNos: yes
+    lineNumbersInTable: no
+    noClasses: yes
+    style: dracula
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 4
+    ordered: no
+    startLevel: 2
+params:
+  colortheme: white
+  comments:
+    cactuscomments:
+      siteName: your_cactus_comments_sitename
+    enabled: yes
+    engine: cactus_comments
+    utterances:
+      label: hugo-site-name
+      repo: <github_username>/<github_reponame>
+      theme: github-light
+  dateFormat: '2006-01-02'
+  description: Hi! I am currently doing a Ph.D., in 
+    Prevention Science and Community Health, in University
+    of Miami. I have been working on evaluation of program 
+    implemented in real context.
+  googleAnalyticsAsync: yes
+  mainSection: posts
+  postsOnHomePage: 5
+  projectsUrl: https://github.com/focardozom
+  rss: yes
+  show_updated: yes
+  showAllPostsArchive: no
+  showAllPostsOnHomePage: no
+  showProjectsList: yes
+  showReadTime: yes
+  social:
+    - link: https://github.com/focardozom
+      name: github
+    - link: https://www.linkedin.com/company/github/
+      name: linkedin
+    - link: foc9@miami.edu
+      name: email
+  tagsOverview: yes
