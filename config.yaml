@@ -18,6 +18,9 @@ menu:
     - name: About
       url: /about
       weight: 4
+    - name: Publications
+      url: /publications
+      weight: 5
 markup:
   highlight:
     codeFences: yes
@@ -45,10 +48,7 @@ params:
       repo: <github_username>/<github_reponame>
       theme: github-light
   dateFormat: '2006-01-02'
-  description: Hi! I am currently doing a Ph.D., in 
-    Prevention Science and Community Health, in University
-    of Miami. I have been working on evaluation of program 
-    implemented in real context.
+  description: I am a Ph.D. student in the Prevention Science and Community Health program at the University of Miami. I have been working on evaluating preventive programs and applying methods to understand alcohol use in adolescents. 
   googleAnalyticsAsync: yes
   mainSection: posts
   postsOnHomePage: 5
@@ -62,8 +62,6 @@ params:
   social:
     - link: https://github.com/focardozom
       name: github
-    - link: https://www.linkedin.com/company/github/
-      name: linkedin
     - link: foc9@miami.edu
       name: email
   tagsOverview: yes
