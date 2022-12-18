@@ -1,0 +1,1 @@
+Brown, Eric & Montero-Zamora, Pablo & Cardozo, Francisco & Reyes, Maria & Briney, John & Mejía-Trujillo, Juliana & Gómez, Augusto. (2021). A Comparison of Cut Points for Measuring Risk Factors for Adolescent Substance Use and Antisocial Behaviors in the U.S. and Colombia. International Journal of Environmental Research and Public Health. 18. 470. 10.3390/ijerph18020470. 
