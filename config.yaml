@@ -48,7 +48,7 @@ params:
       repo: <github_username>/<github_reponame>
       theme: github-light
   dateFormat: '2006-01-02'
-  description: I am a Ph.D. student in the Prevention Science and Community Health program at the University of Miami. I have been working on evaluating preventive programs and applying methods to understand alcohol use in adolescents. 
+  description: Hey there! I'm currently a Ph.D. student at the University of Miami studying Prevention Science and Community Health. I've been focusing on evaluating preventive programs and trying to understand alcohol use in adolescents. I also lead the data analysis department at Figura 1. I'm really interested in using statistical methods to solve a range of problems, like predicting health behavior and modeling social networks. It's all pretty exciting stuff! 
   googleAnalyticsAsync: yes
   mainSection: posts
   postsOnHomePage: 5
